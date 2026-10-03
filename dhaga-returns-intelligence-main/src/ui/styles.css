@@ -118,6 +118,20 @@ footer { display: none !important; }
   display: flex;
   align-items: center;
   gap: 12px;
+  flex-wrap: wrap;
+}
+
+.nav-status-chip {
+  color: var(--text-muted);
+  border: 1px solid var(--border-subtle);
+  border-radius: 9999px;
+  font-size: 12px;
+  font-weight: 650;
+  padding: 6px 10px;
+  display: inline-flex;
+  align-items: center;
+  cursor: default;
+  user-select: none;
 }
 
 .btn-nav-outline {
@@ -208,7 +222,7 @@ footer { display: none !important; }
   font-weight: 700;
 }
 
-.pill-glow-action {
+.pill-pipeline {
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -219,7 +233,8 @@ footer { display: none !important; }
   font-size: 12px;
   font-weight: 700;
   box-shadow: 0 0 14px rgba(99, 102, 241, 0.4);
-  text-decoration: none;
+  cursor: default;
+  user-select: none;
 }
 
 .hero-description {

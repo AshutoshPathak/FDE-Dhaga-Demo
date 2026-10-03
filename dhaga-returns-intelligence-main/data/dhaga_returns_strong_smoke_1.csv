@@ -1,0 +1,2 @@
+return_id,order_id,order_date,return_date,sku,product_name,category,vendor_id,size_ordered,payment_mode,city_tier,return_reason_selected,other_comment
+RET100089,DCO700089,2026-09-02,2026-09-11,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,M,Prepaid,Tier 3,Size/Fit,"size chart ke hisab se liya, waist tight"
