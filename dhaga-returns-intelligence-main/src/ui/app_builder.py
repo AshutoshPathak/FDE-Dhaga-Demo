@@ -67,7 +67,7 @@ def generate_demo_insight(result: pd.DataFrame) -> dict:
         "evidence": evidence or f"{len(subset)} classified returns."
     }
 
-def execute_analysis(df: pd.DataFrame, progress=gr.Progress()):
+def execute_analysis(df: pd.DataFrame, confidence_threshold: float = SETTINGS.confidence_threshold, progress=gr.Progress()):
     if df is None or len(df) == 0:
         raise gr.Error("Upload a valid returns CSV or load the sample dataset first.")
     
@@ -75,6 +75,10 @@ def execute_analysis(df: pd.DataFrame, progress=gr.Progress()):
     if not ok:
         raise gr.Error(msg)
     
+    confidence_threshold = float(confidence_threshold)
+    if not 0.50 <= confidence_threshold <= 0.99:
+        raise gr.Error("Choose a confidence threshold between 50% and 99%.")
+
     df = clean_input(df)
     progress(0.05, desc="Validating dataset integrity")
     
@@ -84,14 +88,14 @@ def execute_analysis(df: pd.DataFrame, progress=gr.Progress()):
     if live:
         try:
             from src.gemini_client import GeminiWorkflow
-            wf = GeminiWorkflow()
+            wf = GeminiWorkflow(confidence_threshold=confidence_threshold)
             preds = wf.classify(df, progress=progress)
             usage = wf.usage
         except Exception as e:
             raise gr.Error(f"Gemini workflow failed: {type(e).__name__}: {e}")
     else:
         progress(0.35, desc="Classifying comments via heuristic engine")
-        preds = classify_dataframe(df)
+        preds = classify_dataframe(df, threshold=confidence_threshold)
         
     result = merge_predictions(df, preds)
     progress(0.80, desc="Aggregating SKU and category patterns")
@@ -103,7 +107,7 @@ def execute_analysis(df: pd.DataFrame, progress=gr.Progress()):
     review_cols = ["return_id", "sku", "other_comment", "ai_primary_reason", "ai_sub_reason", "ai_confidence", "ai_explanation", "model_used"]
     review = result[result['review_status'] == 'Needs Review'][review_cols].copy()
     
-    display_cols = ["return_id", "sku", "product_name", "size_ordered", "other_comment", "ai_primary_reason", "ai_sub_reason", "ai_body_area", "ai_confidence", "review_status", "model_used"]
+    display_cols = ["return_id", "sku", "product_name", "size_ordered", "other_comment", "ai_primary_reason", "ai_sub_reason", "ai_body_area", "ai_confidence", "review_status", "routing_stage", "model_used"]
     display = result[display_cols].copy()
     
     if live:
@@ -112,15 +116,21 @@ def execute_analysis(df: pd.DataFrame, progress=gr.Progress()):
             "reason_breakdown": reasons.head(8).to_dict('records')
         }
         try:
+            progress(0.90, desc="Generating the operational insight (safely paced for Gemini)")
             insight = wf.insight(summary_payload)
         except Exception:
             insight = generate_demo_insight(result)
         costs = cost_summary(usage, len(df))
         tech = {
-            "mode": "Live Gemini 2.5",
+            "mode": "Live Gemini",
             "fast_model": SETTINGS.model_fast,
             "strong_model": SETTINGS.model_strong,
-            "confidence_threshold": SETTINGS.confidence_threshold,
+            "confidence_threshold": confidence_threshold,
+            "request_pacing": {
+                "fast_rpm_limit": SETTINGS.fast_requests_per_minute,
+                "strong_rpm_limit": SETTINGS.strong_requests_per_minute,
+                "safety_margin": "10%",
+            },
             "usage_and_cost": costs
         }
     else:
@@ -129,14 +139,19 @@ def execute_analysis(df: pd.DataFrame, progress=gr.Progress()):
             "mode": "Demo preview - heuristic classifier (set GEMINI_API_KEY for live LLM routing)",
             "fast_model": SETTINGS.model_fast,
             "strong_model": SETTINGS.model_strong,
-            "confidence_threshold": SETTINGS.confidence_threshold,
+            "confidence_threshold": confidence_threshold,
+            "request_pacing": {
+                "fast_rpm_limit": SETTINGS.fast_requests_per_minute,
+                "strong_rpm_limit": SETTINGS.strong_requests_per_minute,
+                "safety_margin": "10%",
+            },
             "usage_and_cost": "Unavailable in demo mode"
         }
         
     insight_html = render_executive_insight(insight)
     reason_bars_html = render_reason_bars(reasons)
     release_cards_html = render_release_cards(ps, result_df=result)
-    metrics_html = render_metrics(metrics, threshold=SETTINGS.confidence_threshold)
+    metrics_html = render_metrics(metrics, threshold=confidence_threshold)
     
     fd = tempfile.NamedTemporaryFile(prefix="dhaga_classified_", suffix=".csv", delete=False)
     result.to_csv(fd.name, index=False)
@@ -168,7 +183,7 @@ def create_dhaga_app() -> tuple[gr.Blocks, str, gr.Theme]:
     
     with gr.Blocks(title="Dhaga Returns Intelligence") as demo:
         # 1. Top Navbar (Salesforce Debugger Style)
-        gr.HTML(render_header(
+        header = gr.HTML(render_header(
             api_key=SETTINGS.api_key,
             fast_model=SETTINGS.model_fast,
             strong_model=SETTINGS.model_strong,
@@ -176,7 +191,7 @@ def create_dhaga_app() -> tuple[gr.Blocks, str, gr.Theme]:
         ))
         
         # 2. Hero Section (Updates & Release Notes Style)
-        gr.HTML(render_hero_section())
+        gr.HTML(render_hero_section(SETTINGS.model_fast, SETTINGS.model_strong))
         
         state_input = gr.State()
         state_result = gr.State()
@@ -190,6 +205,14 @@ def create_dhaga_app() -> tuple[gr.Blocks, str, gr.Theme]:
                 with gr.Column(scale=3):
                     sample_btn = gr.Button("📂 Load Sample Dataset (300 rows)", variant="secondary", elem_classes=["btn-secondary-dark"])
                     run_btn = gr.Button("⚡ Run Returns Analysis", variant="primary", elem_classes=["btn-primary-gradient"])
+            threshold_control = gr.Slider(
+                minimum=0.50,
+                maximum=0.99,
+                value=SETTINGS.confidence_threshold,
+                step=0.01,
+                label="Review confidence threshold",
+                info="Rows below this score are reviewed by the STRONG model; unresolved rows remain in Needs Review.",
+            )
             file_summary = gr.HTML(render_default_file_summary())
 
         # 4. Main Navigation Tabs (High Contrast Dark Segmented Tabs)
@@ -213,7 +236,7 @@ def create_dhaga_app() -> tuple[gr.Blocks, str, gr.Theme]:
 
             # Tab 3: Review Queue
             with gr.Tab("Review Queue"):
-                gr.HTML(render_tab_banner("⚠️", "Ambiguous &amp; Low-Confidence Comments", "These customer comments scored below the 80% confidence threshold or contained conflicting signals. Flagged for human category check.", extra_class="review-banner"))
+                gr.HTML(render_tab_banner("⚠️", "Ambiguous &amp; Low-Confidence Comments", "These comments were flagged for human category review. Check ai_explanation for the reason: a Gemini 503 means temporary high demand, while a Gemini 429 means a request or token limit was reached.", extra_class="review-banner"))
                 review_table = gr.Dataframe(interactive=False, wrap=True, max_height=500)
 
             # Tab 4: Category & Product Insights
@@ -248,10 +271,21 @@ def create_dhaga_app() -> tuple[gr.Blocks, str, gr.Theme]:
             lambda: (str(SAMPLE), *load_dataset(str(SAMPLE))),
             outputs=[upload, state_input, file_summary]
         )
+
+        threshold_control.change(
+            lambda value: render_header(
+                api_key=SETTINGS.api_key,
+                fast_model=SETTINGS.model_fast,
+                strong_model=SETTINGS.model_strong,
+                threshold=float(value),
+            ),
+            inputs=threshold_control,
+            outputs=header,
+        )
         
         run_btn.click(
             execute_analysis,
-            inputs=state_input,
+            inputs=[state_input, threshold_control],
             outputs=[
                 state_result,
                 metrics_html,

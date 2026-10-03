@@ -1,11 +1,14 @@
 from __future__ import annotations
+from html import escape
 from pathlib import Path
 import pandas as pd
 
 def render_header(api_key: str | None, fast_model: str, strong_model: str, threshold: float) -> str:
     live = bool(api_key)
+    fast_name = escape(fast_model)
+    strong_name = escape(strong_model)
     mode_badge = (
-        '<span class="pill-current"><span class="badge-dot live-dot"></span>Live Gemini 2.5</span>'
+        '<span class="pill-current"><span class="badge-dot live-dot"></span>Live Gemini</span>'
         if live else
         '<span class="pill-current" style="color:#fbbf24;background:rgba(245,158,11,0.12);border-color:rgba(245,158,11,0.3);"><span class="badge-dot demo-dot"></span>Demo Preview</span>'
     )
@@ -19,40 +22,28 @@ def render_header(api_key: str | None, fast_model: str, strong_model: str, thres
         </div>
         <div class="nav-brand-title">Dhaga Returns Intelligence</div>
       </div>
-      <div class="nav-links">
-        <span class="nav-link-item active">Overview</span>
-        <span class="nav-link-item">Returns Explorer</span>
-        <span class="nav-link-item">Review Queue</span>
-        <span class="nav-link-item">Category Insights</span>
-        <span class="nav-link-item">Telemetry</span>
-      </div>
       <div class="nav-right">
         {mode_badge}
-        <button class="btn-nav-outline">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
-        </button>
-        <span class="btn-nav-outline">⭐ Threshold: {int(threshold * 100)}%</span>
+        <span class="nav-status-chip">FAST {fast_name} → STRONG {strong_name}</span>
+        <span class="nav-status-chip">Review threshold {int(threshold * 100)}%</span>
       </div>
     </nav>
     """
 
-def render_hero_section() -> str:
-    return """
+def render_hero_section(fast_model: str, strong_model: str) -> str:
+    fast_name = escape(fast_model)
+    strong_name = escape(strong_model)
+    return f"""
     <div class="hero-container">
-      <div class="hero-breadcrumb">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
-        <span>Back to Operations</span>
-      </div>
       <h1 class="hero-title">Updates &amp; Return Intelligence</h1>
       <div class="hero-pill-row">
         <span class="pill-current">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-          Current: v2.5 Flash-Lite
+          FAST: {fast_name}
         </span>
-        <span class="pill-glow-action">
+        <span class="pill-pipeline">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>
-          Gemini Two-Stage Pipeline
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+          Two-stage routing: {fast_name} → {strong_name}
         </span>
       </div>
       <p class="hero-description">

@@ -32,7 +32,7 @@ def merge_predictions(df: pd.DataFrame, predictions: list[dict]) -> pd.DataFrame
         "body_area":"ai_body_area", "confidence":"ai_confidence",
         "short_explanation":"ai_explanation"
     })
-    cols = ["return_id","ai_primary_reason","ai_sub_reason","ai_body_area","ai_confidence","ai_explanation","review_status","model_used"]
+    cols = ["return_id","ai_primary_reason","ai_sub_reason","ai_body_area","ai_confidence","ai_explanation","review_status","model_used","routing_stage"]
     return df.merge(pred[cols], on="return_id", how="left")
 
 def overview_metrics(result: pd.DataFrame) -> dict:
