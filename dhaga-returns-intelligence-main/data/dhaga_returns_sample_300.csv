@@ -1,0 +1,301 @@
+﻿return_id,order_id,order_date,return_date,sku,product_name,category,vendor_id,size_ordered,payment_mode,city_tier,return_reason_selected,other_comment
+RET100089,DCO700089,2026-09-02,2026-09-11,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,M,Prepaid,Tier 3,Size/Fit,"size chart ke hisab se liya, waist tight"
+RET100230,DCO700230,2026-08-07,2026-08-09,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,8-9Y,COD,Tier 3,Other,size label sahi hai but actual fitting small pls check
+RET100249,DCO700249,2026-08-10,2026-08-22,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,L,COD,Tier 1,Other,neeche drag ho raha hai not usable
+RET100234,DCO700234,2026-08-17,2026-08-25,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,XL,COD,Tier 2,Size/Fit,length not as per size chart
+RET100092,DCO700092,2026-09-03,2026-09-15,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,L,COD,Tier 1,Colour,color mismatch hai
+RET100125,DCO700125,2026-08-19,2026-08-29,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,M,COD,Tier 2,Size/Fit,button close ho raha but too tight
+RET100146,DCO700146,2026-07-09,2026-07-18,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,26,COD,Tier 2,Other,galat item mila
+RET100195,DCO700195,2026-07-02,2026-07-04,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,M,Prepaid,Tier 3,Other,"chest fitting bohot tight, saans lene me uncomfortable"
+RET100008,DCO700008,2026-08-27,2026-08-31,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,S,COD,Tier 1,Changed Mind,pehenne ke baad acha nahi laga
+RET100093,DCO700093,2026-07-09,2026-07-16,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,10-11Y,COD,Tier 2,Other,Too tight around chest size chart pls fix
+RET100078,DCO700078,2026-08-21,2026-08-29,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,S,Prepaid,Tier 1,Quality,kapda skin pe itchy hai
+RET100192,DCO700192,2026-07-28,2026-08-06,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,S,COD,Tier 3,Size/Fit,Kurti bahut short aa gayi
+RET100065,DCO700065,2026-07-30,2026-08-10,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,26,Prepaid,Tier 1,Size/Fit,Length bahut zyada hai
+RET100126,DCO700126,2026-08-16,2026-08-20,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XXL,COD,Tier 2,Other,comfortable nahi laga
+RET100243,DCO700243,2026-09-06,2026-09-17,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,10-11Y,COD,Tier 1,Damaged,packet khola toh item torn tha
+RET100231,DCO700231,2026-08-31,2026-09-02,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,L,COD,Tier 2,Quality,fabric expected se hard hai
+RET100217,DCO700217,2026-08-29,2026-08-31,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,S,COD,Tier 2,Other,kapda skin pe itchy hai
+RET100103,DCO700103,2026-09-07,2026-09-09,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,26,Prepaid,Tier 2,Other,quality/fitting kuch issue hai not usable
+RET100225,DCO700225,2026-07-10,2026-07-17,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,Prepaid,Tier 2,Quality,expected jaisa nahi
+RET100116,DCO700116,2026-07-10,2026-07-14,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,6-7Y,Prepaid,Tier 2,Size/Fit,size chart follow kiya still chest tight hai
+RET100017,DCO700017,2026-07-17,2026-07-19,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,10-11Y,COD,Tier 3,Other,"image mein better tha, actual different"
+RET100080,DCO700080,2026-08-15,2026-08-18,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XXL,COD,Tier 1,Other,shoulder fitting chota hai
+RET100082,DCO700082,2026-07-01,2026-07-05,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,L,Prepaid,Tier 2,Other,not good for me
+RET100299,DCO700299,2026-07-22,2026-08-01,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,L,COD,Tier 1,Other,Too tight around chest
+RET100094,DCO700094,2026-08-20,2026-08-24,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,30,COD,Tier 3,Other,zip stuck hai
+RET100142,DCO700142,2026-07-18,2026-07-27,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,L,COD,Tier 2,Delivery,Delivery bahut late hui
+RET100083,DCO700083,2026-08-11,2026-08-22,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,4-5Y,COD,Tier 3,Size/Fit,size label sahi hai but actual fitting small
+RET100207,DCO700207,2026-09-09,2026-09-21,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,M,COD,Tier 1,Size/Fit,pehenne ke baad acha nahi laga
+RET100175,DCO700175,2026-09-07,2026-09-18,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XL,Prepaid,Tier 1,Other,washing ke baad neck loose ho gaya
+RET100070,DCO700070,2026-07-05,2026-07-11,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,L,Prepaid,Tier 1,Other,shoulder fitting chota hai
+RET100113,DCO700113,2026-08-27,2026-09-01,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,L,Prepaid,Tier 1,Other,expected length se kaafi long
+RET100204,DCO700204,2026-09-05,2026-09-15,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,XS,Prepaid,Tier 2,Other,expected jaisa nahi
+RET100227,DCO700227,2026-09-11,2026-09-13,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,M,COD,Tier 1,Size/Fit,same size usually fits but this is baggy
+RET100203,DCO700203,2026-07-08,2026-07-14,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,S,Prepaid,Tier 2,Other,kapda skin pe itchy h
+RET100246,DCO700246,2026-07-02,2026-07-11,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,M,Prepaid,Tier 2,Quality,expected better thickness
+RET100242,DCO700242,2026-07-12,2026-07-17,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,S,COD,Tier 3,Size/Fit,waist se gir raha hai
+RET100289,DCO700289,2026-09-10,2026-09-13,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XL,COD,Tier 1,Wrong Item,galat item mila size chart pls fix
+RET100232,DCO700232,2026-08-06,2026-08-12,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XL,COD,Tier 1,Size/Fit,same size usually fits but this is baggy
+RET100157,DCO700157,2026-08-23,2026-08-29,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,M,COD,Tier 1,Quality,fabric sheer h
+RET100151,DCO700151,2026-07-23,2026-08-04,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,L,Prepaid,Tier 2,Other,mera order wala item nahi h
+RET100100,DCO700100,2026-08-25,2026-08-28,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,L,Prepaid,Tier 1,Quality,expected jaisa nahi
+RET100003,DCO700003,2026-08-09,2026-08-14,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,M,COD,Tier 3,Size/Fit,Waist bahut tight hai
+RET100212,DCO700212,2026-07-31,2026-08-06,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,4-5Y,COD,Tier 1,Other,dress ka zip jam ho gaya
+RET100112,DCO700112,2026-09-12,2026-09-16,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,L,COD,Tier 2,Other,packet khola toh item torn tha
+RET100191,DCO700191,2026-08-28,2026-09-06,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,XL,COD,Tier 1,Size/Fit,Length bahut zyada hai
+RET100196,DCO700196,2026-07-18,2026-07-30,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,6-7Y,Prepaid,Tier 1,Size/Fit,overall size chota hai
+RET100086,DCO700086,2026-07-06,2026-07-14,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,XL,COD,Tier 3,Size/Fit,mere liye thoda zyada short hai
+RET100076,DCO700076,2026-08-21,2026-08-29,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,Prepaid,Tier 2,Quality,not comfortable because fabric is see-through
+RET100202,DCO700202,2026-07-20,2026-07-30,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,10-11Y,COD,Tier 2,Size/Fit,size label sahi h but actual fitting small
+RET100032,DCO700032,2026-08-29,2026-09-02,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,M,Prepaid,Tier 2,Size/Fit,fit expected se kaafi loose
+RET100041,DCO700041,2026-07-29,2026-08-06,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,M,Prepaid,Tier 1,Other,cloth quality rough
+RET100168,DCO700168,2026-08-26,2026-09-02,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,28,Prepaid,Tier 1,Other,kamar ke paas tight ho raha size chart pls fix
+RET100172,DCO700172,2026-08-20,2026-08-27,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,8-9Y,COD,Tier 2,Other,wrong colour and wrong design received
+RET100064,DCO700064,2026-08-07,2026-08-09,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,32,Prepaid,Tier 2,Other,button close ho raha but too tight
+RET100273,DCO700273,2026-08-02,2026-08-13,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,34,COD,Tier 1,Other,kamar ke paas tight ho raha
+RET100276,DCO700276,2026-08-20,2026-08-27,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,XL,Prepaid,Tier 2,Size/Fit,length not as per size chart
+RET100174,DCO700174,2026-07-20,2026-07-28,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,M,Prepaid,Tier 1,Size/Fit,length not as per size chart
+RET100262,DCO700262,2026-07-30,2026-08-08,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,S,Prepaid,Tier 1,Quality,changed my mind
+RET100258,DCO700258,2026-09-07,2026-09-18,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,S,COD,Tier 3,Other,waist size chota lag raha hai
+RET100237,DCO700237,2026-08-24,2026-08-27,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XXL,Prepaid,Tier 2,Size/Fit,changed my mind
+RET100119,DCO700119,2026-09-11,2026-09-13,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,S,Prepaid,Tier 1,Other,actual shade different from app
+RET100149,DCO700149,2026-07-09,2026-07-12,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,28,COD,Tier 2,Size/Fit,button close ho raha but too tight
+RET100143,DCO700143,2026-07-11,2026-07-21,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,L,COD,Tier 2,Other,size M feels like XL
+RET100263,DCO700263,2026-08-10,2026-08-18,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,4-5Y,Prepaid,Tier 1,Quality,expected jaisa nahi
+RET100183,DCO700183,2026-07-24,2026-08-02,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,Prepaid,Tier 2,Other,kamar ke paas tight ho raha
+RET100297,DCO700297,2026-07-10,2026-07-12,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,4-5Y,Prepaid,Tier 2,Quality,"image mein better tha, actual different"
+RET100102,DCO700102,2026-09-06,2026-09-14,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,6-7Y,COD,Tier 1,Other,back zip stuck hai
+RET100029,DCO700029,2026-07-10,2026-07-16,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,L,COD,Tier 1,Other,poor stitching quality
+RET100120,DCO700120,2026-08-08,2026-08-17,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,L,COD,Tier 3,Other,size chart follow kiya still chest tight hai
+RET100009,DCO700009,2026-07-31,2026-08-04,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,S,COD,Tier 2,Other,product damaged aaya
+RET100252,DCO700252,2026-09-13,2026-09-24,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,L,Prepaid,Tier 1,Size/Fit,occasion cancel ho gaya
+RET100272,DCO700272,2026-07-01,2026-07-08,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,8-9Y,COD,Tier 2,Size/Fit,size chart follow kiya still chest tight hai
+RET100259,DCO700259,2026-07-27,2026-08-08,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,S,Prepaid,Tier 1,Other,expected length se kaafi long
+RET100019,DCO700019,2026-08-30,2026-09-04,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,4-5Y,COD,Tier 3,Other,changed my mind
+RET100179,DCO700179,2026-08-01,2026-08-11,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,S,COD,Tier 1,Changed Mind,pehenne ke baad acha nahi laga
+RET100161,DCO700161,2026-08-25,2026-08-29,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XL,COD,Tier 1,Other,not good for me
+RET100050,DCO700050,2026-09-12,2026-09-23,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XXL,Prepaid,Tier 3,Other,shoulder fitting chota hai
+RET100087,DCO700087,2026-08-28,2026-09-04,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,XL,COD,Tier 3,Size/Fit,Waist bahut tight hai
+RET100007,DCO700007,2026-08-15,2026-08-23,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,M,COD,Tier 3,Quality,changed my mind
+RET100114,DCO700114,2026-08-14,2026-08-17,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,6-7Y,COD,Tier 1,Quality,changed my mind
+RET100107,DCO700107,2026-09-04,2026-09-12,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,XL,Prepaid,Tier 2,Size/Fit,size okay but somehow fitting off size chart pls fix
+RET100278,DCO700278,2026-08-15,2026-08-25,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,L,COD,Tier 2,Other,ordered kurti but different product received
+RET100182,DCO700182,2026-08-08,2026-08-19,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,8-9Y,COD,Tier 2,Quality,zip broken
+RET100138,DCO700138,2026-08-12,2026-08-18,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,XL,COD,Tier 2,Other,sleeve opening chota h
+RET100184,DCO700184,2026-09-01,2026-09-05,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,M,COD,Tier 2,Other,fitting loose around waist
+RET100013,DCO700013,2026-07-10,2026-07-20,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,L,COD,Tier 1,Other,kapda patla hai pls check
+RET100295,DCO700295,2026-08-09,2026-08-20,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,S,COD,Tier 2,Other,comfortable nahi laga
+RET100058,DCO700058,2026-09-02,2026-09-04,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,4-5Y,COD,Tier 3,Other,cloth quality rough
+RET100254,DCO700254,2026-07-21,2026-07-30,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,XS,Prepaid,Tier 3,Size/Fit,Waist bahut tight hai
+RET100016,DCO700016,2026-07-17,2026-07-29,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XL,Prepaid,Tier 1,Other,product damaged aaya
+RET100269,DCO700269,2026-08-18,2026-08-26,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,10-11Y,Prepaid,Tier 1,Size/Fit,"chest fitting bohot tight, saans lene me uncomfortable"
+RET100189,DCO700189,2026-07-13,2026-07-17,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XXL,Prepaid,Tier 3,Other,late delivery so returning
+RET100200,DCO700200,2026-07-23,2026-08-01,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,4-5Y,Prepaid,Tier 3,Other,late delivery so returning
+RET100091,DCO700091,2026-07-06,2026-07-15,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,S,Prepaid,Tier 2,Other,Sleeves bahut tight hain
+RET100045,DCO700045,2026-09-11,2026-09-17,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,L,COD,Tier 1,Other,Bazu mein tight ho raha hai
+RET100074,DCO700074,2026-07-19,2026-07-23,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,M,COD,Tier 3,Wrong Item,wrong colour and wrong design received
+RET100292,DCO700292,2026-07-06,2026-07-08,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,8-9Y,COD,Tier 2,Quality,print quality poor
+RET100210,DCO700210,2026-07-01,2026-07-13,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,M,COD,Tier 2,Damaged,packet khola toh item torn tha size chart pls fix
+RET100224,DCO700224,2026-07-17,2026-07-24,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,M,Prepaid,Tier 3,Quality,photo mein better tha
+RET100206,DCO700206,2026-07-15,2026-07-20,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,XL,Prepaid,Tier 1,Size/Fit,mere liye thoda zyada short h
+RET100128,DCO700128,2026-08-30,2026-09-01,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,L,COD,Tier 2,Other,late delivery so returning
+RET100048,DCO700048,2026-07-26,2026-08-03,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,M,COD,Tier 1,Other,Colour photo jaisa nahi hai
+RET100023,DCO700023,2026-07-17,2026-07-22,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,L,COD,Tier 3,Other,loose threads all over
+RET100062,DCO700062,2026-09-13,2026-09-17,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XL,COD,Tier 2,Size/Fit,Shoulder area tight hai
+RET100271,DCO700271,2026-08-13,2026-08-20,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,S,Prepaid,Tier 3,Colour,ordered maroon but looks more red
+RET100101,DCO700101,2026-08-12,2026-08-16,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,8-9Y,COD,Tier 1,Size/Fit,Too tight around chest pls check
+RET100071,DCO700071,2026-07-13,2026-07-22,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,M,Prepaid,Tier 3,Colour,image se shade kaafi different hai
+RET100180,DCO700180,2026-07-26,2026-08-04,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XL,COD,Tier 2,Other,shoulders pe pull ho raha
+RET100027,DCO700027,2026-08-29,2026-08-31,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,6-7Y,COD,Tier 3,Quality,Fabric rough lag raha hai
+RET100198,DCO700198,2026-07-11,2026-07-16,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,S,COD,Tier 2,Other,shoulder fitting chota hai
+RET100051,DCO700051,2026-09-01,2026-09-04,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,L,COD,Tier 2,Size/Fit,too loose at waist even after choosing chart size
+RET100281,DCO700281,2026-07-02,2026-07-08,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,L,COD,Tier 3,Size/Fit,shoulder fitting chota hai
+RET100036,DCO700036,2026-08-20,2026-08-25,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,S,COD,Tier 2,Other,size M feels like XL
+RET100079,DCO700079,2026-08-17,2026-08-21,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,L,COD,Tier 2,Quality,stitching loose h
+RET100127,DCO700127,2026-07-20,2026-07-31,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,S,Prepaid,Tier 1,Other,expected jaisa nahi
+RET100291,DCO700291,2026-08-30,2026-09-03,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,COD,Tier 1,Other,stretch karte hi see through ho raha
+RET100190,DCO700190,2026-08-20,2026-08-29,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,L,COD,Tier 2,Colour,actual shade different from app
+RET100069,DCO700069,2026-07-30,2026-08-08,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,34,COD,Tier 3,Other,neeche drag ho raha hai
+RET100171,DCO700171,2026-08-12,2026-08-23,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,L,COD,Tier 3,Size/Fit,"size chart ke hisab se liya, waist tight"
+RET100221,DCO700221,2026-08-04,2026-08-14,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,26,Prepaid,Tier 3,Size/Fit,"size chart ke hisab se liya, waist tight"
+RET100240,DCO700240,2026-08-21,2026-08-23,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,L,COD,Tier 3,Size/Fit,arms ke liye sleeves too short
+RET100075,DCO700075,2026-09-06,2026-09-09,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,S,Prepaid,Tier 2,Other,fabric expected se hard h
+RET100084,DCO700084,2026-09-04,2026-09-07,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,S,COD,Tier 1,Other,button close ho raha but too tight
+RET100055,DCO700055,2026-08-01,2026-08-10,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,4-5Y,COD,Tier 2,Other,design looks different from listing
+RET100020,DCO700020,2026-08-14,2026-08-26,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,L,COD,Tier 2,Wrong Item,Galat item mila size chart pls fix
+RET100014,DCO700014,2026-07-02,2026-07-14,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,Prepaid,Tier 1,Other,"size chart ke hisab se liya, waist tight"
+RET100201,DCO700201,2026-09-03,2026-09-09,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,S,Prepaid,Tier 2,Size/Fit,size okay but somehow fitting off
+RET100235,DCO700235,2026-09-08,2026-09-16,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,32,Prepaid,Tier 2,Other,waist bahut tight hai
+RET100261,DCO700261,2026-07-27,2026-08-05,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,M,COD,Tier 1,Wrong Item,wrong colour and wrong design received
+RET100293,DCO700293,2026-07-24,2026-07-29,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,S,Prepaid,Tier 1,Other,ordered maroon but looks more red
+RET100218,DCO700218,2026-07-05,2026-07-16,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,XL,Prepaid,Tier 1,Size/Fit,Too tight around chest
+RET100290,DCO700290,2026-07-09,2026-07-20,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,32,COD,Tier 3,Other,waist bohot tight h
+RET100167,DCO700167,2026-09-13,2026-09-25,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XL,COD,Tier 3,Quality,kapda light hai and cheap feel de raha
+RET100159,DCO700159,2026-08-22,2026-08-26,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,L,Prepaid,Tier 1,Damaged,Product damaged aaya pls check
+RET100163,DCO700163,2026-07-22,2026-07-25,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,S,COD,Tier 2,Other,quality/fitting kuch issue hai
+RET100002,DCO700002,2026-08-08,2026-08-20,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,32,COD,Tier 1,Size/Fit,neeche drag ho raha hai
+RET100049,DCO700049,2026-08-29,2026-09-04,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,M,Prepaid,Tier 3,Size/Fit,waist size chota lag raha hai
+RET100222,DCO700222,2026-08-10,2026-08-17,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,M,Prepaid,Tier 1,Other,occasion cancel ho gaya
+RET100105,DCO700105,2026-07-03,2026-07-10,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XXL,Prepaid,Tier 1,Quality,photo mein better tha
+RET100140,DCO700140,2026-07-24,2026-07-28,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,34,COD,Tier 3,Size/Fit,expected length se kaafi long
+RET100215,DCO700215,2026-08-27,2026-09-06,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,M,Prepaid,Tier 1,Other,kurti bahut short aa gayi
+RET100245,DCO700245,2026-08-06,2026-08-08,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XL,COD,Tier 1,Delivery,late delivery so returning
+RET100060,DCO700060,2026-07-09,2026-07-14,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XL,Prepaid,Tier 3,Other,occasion cancel ho gaya
+RET100275,DCO700275,2026-07-23,2026-08-03,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,M,COD,Tier 3,Size/Fit,arms ke liye sleeves too short
+RET100066,DCO700066,2026-08-26,2026-08-28,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,L,COD,Tier 2,Quality,material too thin and transparent
+RET100236,DCO700236,2026-07-05,2026-07-15,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,S,COD,Tier 2,Other,don't need it anymore
+RET100266,DCO700266,2026-08-31,2026-09-09,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,10-11Y,COD,Tier 2,Other,Chest ke paas bahut tight hai
+RET100026,DCO700026,2026-09-12,2026-09-17,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,XS,Prepaid,Tier 2,Other,photo mein better tha
+RET100148,DCO700148,2026-08-18,2026-08-23,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,M,COD,Tier 1,Other,Shoulder area tight hai
+RET100288,DCO700288,2026-07-28,2026-08-09,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,S,COD,Tier 1,Other,image se shade kaafi different hai
+RET100098,DCO700098,2026-08-26,2026-09-04,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,6-7Y,Prepaid,Tier 3,Other,dress ka zip jam ho gaya
+RET100165,DCO700165,2026-07-10,2026-07-16,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,S,COD,Tier 1,Other,packet khola toh item torn tha
+RET100285,DCO700285,2026-09-06,2026-09-15,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,M,Prepaid,Tier 3,Size/Fit,"photo me longer laga tha, actual short hai"
+RET100110,DCO700110,2026-08-25,2026-08-31,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,L,Prepaid,Tier 3,Other,button close ho raha but too tight
+RET100136,DCO700136,2026-08-22,2026-09-03,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,XL,Prepaid,Tier 3,Other,expected jaisa nahi
+RET100298,DCO700298,2026-08-16,2026-08-24,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XXL,COD,Tier 3,Quality,shape retained nahi hua
+RET100095,DCO700095,2026-07-24,2026-07-29,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,34,COD,Tier 3,Other,height ke hisab se bahut lamba hai size chart pls fix
+RET100178,DCO700178,2026-08-26,2026-09-04,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,S,COD,Tier 1,Size/Fit,Kurti bahut short aa gayi
+RET100277,DCO700277,2026-09-09,2026-09-21,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,S,COD,Tier 1,Quality,design looks different from listing
+RET100111,DCO700111,2026-08-26,2026-08-28,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,S,COD,Tier 1,Other,size chart follow kiya still chest tight hai
+RET100001,DCO700001,2026-09-07,2026-09-13,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,XL,Prepaid,Tier 1,Size/Fit,expected length se kaafi long pls check
+RET100139,DCO700139,2026-08-02,2026-08-06,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XL,COD,Tier 1,Size/Fit,upper body mein tight especially shoulder
+RET100155,DCO700155,2026-08-31,2026-09-05,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,6-7Y,Prepaid,Tier 2,Quality,Product photo jaisa nahi lag raha
+RET100219,DCO700219,2026-08-01,2026-08-13,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,32,Prepaid,Tier 2,Other,waist size chota lag raha hai
+RET100209,DCO700209,2026-08-17,2026-08-28,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,30,Prepaid,Tier 3,Size/Fit,kamar ke paas tight ho raha
+RET100296,DCO700296,2026-08-31,2026-09-09,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,XL,COD,Tier 3,Quality,material bahut transparent
+RET100031,DCO700031,2026-08-23,2026-09-02,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,S,Prepaid,Tier 2,Size/Fit,Chest ke paas bahut tight hai
+RET100282,DCO700282,2026-08-07,2026-08-16,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,6-7Y,COD,Tier 2,Quality,back zipper issue
+RET100137,DCO700137,2026-07-05,2026-07-09,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,6-7Y,COD,Tier 3,Other,Chest ke paas bohot tight h
+RET100010,DCO700010,2026-09-01,2026-09-05,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,4-5Y,COD,Tier 1,Size/Fit,"age size liya but fit nahi hua, chota hai"
+RET100205,DCO700205,2026-07-09,2026-07-15,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,M,Prepaid,Tier 2,Size/Fit,Waist bohot tight h
+RET100158,DCO700158,2026-08-28,2026-09-01,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,6-7Y,Prepaid,Tier 1,Quality,print quality poor
+RET100122,DCO700122,2026-08-23,2026-08-28,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,Prepaid,Tier 3,Size/Fit,kamar ke paas tight ho raha
+RET100046,DCO700046,2026-08-24,2026-08-30,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XL,COD,Tier 1,Size/Fit,arms move karne par shoulder tight lagta
+RET100025,DCO700025,2026-07-31,2026-08-12,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XL,COD,Tier 3,Wrong Item,Galat item mila
+RET100216,DCO700216,2026-07-11,2026-07-22,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,4-5Y,COD,Tier 3,Size/Fit,"chest fitting bohot tight, saans lene me uncomfortable"
+RET100039,DCO700039,2026-08-05,2026-08-14,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,L,COD,Tier 2,Size/Fit,don't need it anymore
+RET100108,DCO700108,2026-08-21,2026-08-30,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,26,Prepaid,Tier 2,Size/Fit,Waist bahut tight hai
+RET100286,DCO700286,2026-08-01,2026-08-03,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,S,Prepaid,Tier 1,Changed Mind,pehenne ke baad acha nahi laga
+RET100130,DCO700130,2026-07-15,2026-07-20,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,6-7Y,COD,Tier 1,Quality,dress ka zip jam ho gaya
+RET100134,DCO700134,2026-08-26,2026-09-07,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XL,COD,Tier 2,Size/Fit,shoulders pe pull ho raha
+RET100052,DCO700052,2026-08-10,2026-08-16,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,COD,Tier 3,Quality,stretch karte hi see through ho raha pls check
+RET100220,DCO700220,2026-07-04,2026-07-11,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,XL,COD,Tier 1,Size/Fit,M liya but chest mein squeeze ho raha hai
+RET100028,DCO700028,2026-09-03,2026-09-11,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,XL,Prepaid,Tier 2,Size/Fit,mere liye thoda zyada short hai
+RET100034,DCO700034,2026-07-29,2026-08-10,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,8-9Y,COD,Tier 3,Delivery,delivery bahut late hui
+RET100099,DCO700099,2026-09-09,2026-09-12,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XXL,Prepaid,Tier 2,Size/Fit,arms move karne par shoulder tight lagta
+RET100097,DCO700097,2026-08-26,2026-09-06,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,S,COD,Tier 2,Quality,"image mein better tha, actual different"
+RET100059,DCO700059,2026-07-10,2026-07-19,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,Prepaid,Tier 1,Other,button close ho raha but too tight
+RET100018,DCO700018,2026-07-31,2026-08-04,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,L,Prepaid,Tier 3,Other,"upar se fit nahi aa raha, chest tight"
+RET100238,DCO700238,2026-09-05,2026-09-14,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,M,Prepaid,Tier 1,Other,Fabric rough lag raha hai
+RET100153,DCO700153,2026-07-11,2026-07-20,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,M,Prepaid,Tier 1,Changed Mind,don't need it anymore
+RET100117,DCO700117,2026-07-08,2026-07-11,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,10-11Y,COD,Tier 1,Other,expected something else based on images
+RET100088,DCO700088,2026-09-06,2026-09-16,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,XL,COD,Tier 3,Size/Fit,upper body mein tight especially shoulder pls check
+RET100176,DCO700176,2026-07-13,2026-07-19,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,L,COD,Tier 2,Other,expected thicker material
+RET100260,DCO700260,2026-08-06,2026-08-09,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,S,Prepaid,Tier 2,Other,too long for me
+RET100228,DCO700228,2026-07-12,2026-07-24,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,M,Prepaid,Tier 3,Size/Fit,too loose from all sides
+RET100068,DCO700068,2026-09-10,2026-09-17,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,30,COD,Tier 2,Other,kamar ke paas tight ho raha
+RET100131,DCO700131,2026-07-27,2026-08-06,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,L,COD,Tier 2,Other,photo and actual piece don't match
+RET100169,DCO700169,2026-08-11,2026-08-19,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,M,COD,Tier 2,Size/Fit,length expected se choti hai
+RET100160,DCO700160,2026-08-31,2026-09-12,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,M,COD,Tier 1,Quality,photo mein better tha
+RET100270,DCO700270,2026-07-03,2026-07-06,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,10-11Y,COD,Tier 1,Quality,photo mein better tha
+RET100197,DCO700197,2026-07-20,2026-07-28,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XXL,Prepaid,Tier 2,Other,expected jaisa nahi
+RET100150,DCO700150,2026-08-07,2026-08-12,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,S,Prepaid,Tier 2,Other,too loose at waist even after choosing chart size
+RET100037,DCO700037,2026-09-11,2026-09-13,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,M,COD,Tier 2,Other,not good for me
+RET100223,DCO700223,2026-07-23,2026-08-01,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,L,COD,Tier 1,Size/Fit,"photo me longer laga tha, actual short hai"
+RET100244,DCO700244,2026-07-16,2026-07-28,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,S,COD,Tier 2,Colour,actual shade different from app
+RET100057,DCO700057,2026-07-31,2026-08-11,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,L,COD,Tier 3,Other,expected something else based on images
+RET100044,DCO700044,2026-08-30,2026-09-08,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,M,COD,Tier 1,Other,occasion ke baad deliver hua size chart pls fix
+RET100253,DCO700253,2026-09-11,2026-09-20,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,S,COD,Tier 3,Size/Fit,Shoulder area tight h
+RET100121,DCO700121,2026-08-10,2026-08-17,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,8-9Y,Prepaid,Tier 1,Size/Fit,"age size liya but fit nahi hua, chota hai"
+RET100156,DCO700156,2026-08-29,2026-09-01,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,6-7Y,Prepaid,Tier 2,Other,size label sahi hai but actual fitting small
+RET100280,DCO700280,2026-09-10,2026-09-15,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,30,Prepaid,Tier 2,Other,too long for me
+RET100056,DCO700056,2026-09-14,2026-09-25,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XXL,Prepaid,Tier 2,Size/Fit,fit expected se kaafi loose size chart pls fix
+RET100022,DCO700022,2026-07-26,2026-08-02,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,XL,COD,Tier 3,Size/Fit,length not as per size chart
+RET100073,DCO700073,2026-08-01,2026-08-05,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,XL,Prepaid,Tier 1,Size/Fit,size okay but somehow fitting off size chart pls fix
+RET100211,DCO700211,2026-07-30,2026-08-09,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,26,COD,Tier 3,Size/Fit,don't need it anymore
+RET100256,DCO700256,2026-08-08,2026-08-14,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,M,COD,Tier 2,Delivery,occasion ke baad deliver hua pls check
+RET100187,DCO700187,2026-07-12,2026-07-21,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,XL,Prepaid,Tier 1,Other,packet khola toh item torn tha
+RET100255,DCO700255,2026-08-11,2026-08-21,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,L,COD,Tier 2,Quality,threading loose hai
+RET100005,DCO700005,2026-08-13,2026-08-15,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,M,COD,Tier 1,Size/Fit,Kurti bahut short aa gayi
+RET100164,DCO700164,2026-07-10,2026-07-22,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,Prepaid,Tier 3,Other,ordered kurti but different product received
+RET100145,DCO700145,2026-08-28,2026-09-08,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XL,COD,Tier 2,Quality,photo mein better tha
+RET100154,DCO700154,2026-07-25,2026-08-05,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,M,Prepaid,Tier 2,Size/Fit,quality/fitting kuch issue hai
+RET100104,DCO700104,2026-07-09,2026-07-19,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,M,COD,Tier 3,Size/Fit,"upar se fit nahi aa raha, chest tight"
+RET100133,DCO700133,2026-09-10,2026-09-16,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,34,COD,Tier 2,Delivery,late delivery so returning
+RET100047,DCO700047,2026-08-22,2026-08-31,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,S,Prepaid,Tier 2,Size/Fit,size chart follow kiya still chest tight hai
+RET100067,DCO700067,2026-07-22,2026-07-28,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,L,Prepaid,Tier 3,Size/Fit,mere liye thoda zyada short hai
+RET100043,DCO700043,2026-07-25,2026-07-31,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,M,COD,Tier 1,Size/Fit,"upar se fit nahi aa raha, chest tight"
+RET100015,DCO700015,2026-08-13,2026-08-18,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,S,Prepaid,Tier 3,Other,Waist bohot loose h
+RET100038,DCO700038,2026-07-20,2026-07-28,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,COD,Tier 2,Quality,first wear se stitching open ho gayi
+RET100239,DCO700239,2026-07-14,2026-07-25,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,XXL,Prepaid,Tier 3,Size/Fit,"chest fitting bohot tight, saans lene me uncomfortable"
+RET100229,DCO700229,2026-08-23,2026-08-27,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,4-5Y,Prepaid,Tier 2,Size/Fit,too tight around chest
+RET100011,DCO700011,2026-07-24,2026-07-27,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,S,COD,Tier 2,Size/Fit,"sleeves narrow, movement nahi ho raha"
+RET100132,DCO700132,2026-08-03,2026-08-14,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XL,COD,Tier 3,Colour,ordered maroon but looks more red
+RET100162,DCO700162,2026-08-01,2026-08-06,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,S,COD,Tier 3,Quality,design looks different from listing
+RET100035,DCO700035,2026-08-29,2026-09-04,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,S,Prepaid,Tier 1,Size/Fit,"chest fitting bohot tight, saans lene me uncomfortable"
+RET100274,DCO700274,2026-07-16,2026-07-25,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,6-7Y,COD,Tier 2,Other,print nikal raha h
+RET100248,DCO700248,2026-07-14,2026-07-23,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,4-5Y,COD,Tier 3,Changed Mind,pehenne ke baad acha nahi laga
+RET100147,DCO700147,2026-08-14,2026-08-17,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,L,COD,Tier 2,Changed Mind,don't need it anymore
+RET100033,DCO700033,2026-08-11,2026-08-16,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,4-5Y,COD,Tier 1,Size/Fit,quality/fitting kuch issue h not usable
+RET100012,DCO700012,2026-09-13,2026-09-24,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,XL,COD,Tier 3,Other,size okay but somehow fitting off
+RET100063,DCO700063,2026-09-14,2026-09-20,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,8-9Y,Prepaid,Tier 2,Other,occasion cancel ho gaya
+RET100006,DCO700006,2026-07-10,2026-07-20,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,S,COD,Tier 2,Size/Fit,fit thoda weird hai
+RET100106,DCO700106,2026-08-29,2026-09-07,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,S,Prepaid,Tier 3,Size/Fit,Chest ke paas bahut tight hai
+RET100214,DCO700214,2026-07-06,2026-07-11,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,M,Prepaid,Tier 1,Other,stitching loose hai
+RET100294,DCO700294,2026-07-26,2026-08-06,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,M,COD,Tier 1,Other,mere liye thoda zyada short hai pls check
+RET100042,DCO700042,2026-07-16,2026-07-21,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,L,COD,Tier 2,Other,size M feels like XL
+RET100152,DCO700152,2026-09-07,2026-09-16,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,L,COD,Tier 1,Size/Fit,sleeve opening chota hai
+RET100054,DCO700054,2026-07-12,2026-07-17,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,32,Prepaid,Tier 3,Other,"size chart ke hisab se liya, waist tight not usable"
+RET100251,DCO700251,2026-07-24,2026-08-05,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,L,Prepaid,Tier 2,Wrong Item,wrong colour and wrong design received
+RET100123,DCO700123,2026-09-03,2026-09-12,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,L,Prepaid,Tier 1,Quality,first wear se stitching open ho gayi
+RET100173,DCO700173,2026-09-09,2026-09-11,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,6-7Y,Prepaid,Tier 2,Other,zip broken
+RET100124,DCO700124,2026-08-06,2026-08-16,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,S,COD,Tier 1,Quality,photo mein better tha
+RET100030,DCO700030,2026-07-27,2026-08-04,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,S,COD,Tier 3,Size/Fit,full sleeve bola tha but wrist tak nahi aa raha
+RET100300,DCO700300,2026-07-06,2026-07-18,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XXL,COD,Tier 3,Size/Fit,occasion cancel ho gaya
+RET100170,DCO700170,2026-08-05,2026-08-13,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,M,COD,Tier 3,Other,"photo me longer laga tha, actual short hai"
+RET100213,DCO700213,2026-08-27,2026-09-05,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,8-9Y,COD,Tier 1,Size/Fit,bacche ko size bilkul small pada
+RET100268,DCO700268,2026-07-02,2026-07-14,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,XL,Prepaid,Tier 2,Size/Fit,length not as per size chart
+RET100061,DCO700061,2026-08-07,2026-08-14,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,S,COD,Tier 1,Quality,Fabric bahut thin hai pls check
+RET100186,DCO700186,2026-08-16,2026-08-26,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,L,Prepaid,Tier 1,Other,"size chart ke hisab se liya, waist tight"
+RET100081,DCO700081,2026-09-10,2026-09-21,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,XL,Prepaid,Tier 2,Other,material comfortable nahi hai
+RET100096,DCO700096,2026-08-13,2026-08-24,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,M,COD,Tier 2,Size/Fit,Shoulder area tight hai
+RET100077,DCO700077,2026-09-06,2026-09-12,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,4-5Y,COD,Tier 2,Size/Fit,"chest fitting bohot tight, saans lene me uncomfortable"
+RET100109,DCO700109,2026-07-24,2026-08-03,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,L,COD,Tier 1,Quality,design looks different from listing
+RET100144,DCO700144,2026-09-05,2026-09-14,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,S,COD,Tier 1,Other,size okay but somehow fitting off
+RET100264,DCO700264,2026-08-17,2026-08-24,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,S,COD,Tier 2,Other,Too tight around chest
+RET100284,DCO700284,2026-08-10,2026-08-20,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,M,COD,Tier 1,Quality,design looks different from listing
+RET100118,DCO700118,2026-09-09,2026-09-15,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,M,COD,Tier 1,Other,side stitch khul raha hai
+RET100085,DCO700085,2026-08-02,2026-08-08,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,XL,COD,Tier 1,Size/Fit,too loose at waist even after choosing chart size
+RET100226,DCO700226,2026-09-10,2026-09-21,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,S,Prepaid,Tier 1,Quality,washing ke baad neck loose ho gaya
+RET100072,DCO700072,2026-08-15,2026-08-17,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,26,COD,Tier 1,Other,kamar ke paas tight ho raha
+RET100257,DCO700257,2026-08-21,2026-08-23,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,L,COD,Tier 2,Size/Fit,shoulder fitting chota hai
+RET100004,DCO700004,2026-08-24,2026-08-29,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,S,Prepaid,Tier 3,Other,ordered kurti but different product received
+RET100247,DCO700247,2026-08-29,2026-09-04,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,S,Prepaid,Tier 3,Quality,shape retained nahi hua
+RET100250,DCO700250,2026-07-29,2026-08-10,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,8-9Y,COD,Tier 3,Size/Fit,Chest ke paas bahut tight hai
+RET100177,DCO700177,2026-07-04,2026-07-13,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XXL,COD,Tier 2,Other,shoulder fitting chota hai
+RET100181,DCO700181,2026-07-26,2026-08-04,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,M,COD,Tier 2,Other,Length expected se choti hai
+RET100208,DCO700208,2026-07-06,2026-07-14,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,8-9Y,COD,Tier 2,Size/Fit,size label sahi h but actual fitting small
+RET100283,DCO700283,2026-08-12,2026-08-21,DRESS-2031,Nysa Floral Midi Dress,Womenswear - Dress,V-JPR-11,S,Prepaid,Tier 1,Other,waist size chota lag raha h
+RET100115,DCO700115,2026-09-02,2026-09-04,JEANS-2204,Veda High-Rise Jeans,Womenswear - Bottoms,V-TIR-08,28,COD,Tier 2,Other,wrong colour and wrong design received
+RET100287,DCO700287,2026-07-06,2026-07-12,KURTI-1178,Meera Straight Kurti,Womenswear - Kurti,V-JPR-03,XL,Prepaid,Tier 1,Size/Fit,mere liye thoda zyada short hai
+RET100129,DCO700129,2026-09-13,2026-09-24,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,8-9Y,COD,Tier 1,Quality,print nikal raha hai
+RET100265,DCO700265,2026-07-08,2026-07-12,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,8-9Y,COD,Tier 3,Other,M liya but chest mein squeeze ho raha hai
+RET100040,DCO700040,2026-08-05,2026-08-15,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XL,COD,Tier 3,Other,fit expected se kaafi loose
+RET100188,DCO700188,2026-07-27,2026-07-29,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,M,COD,Tier 2,Other,arms move karne par shoulder tight lagta
+RET100194,DCO700194,2026-07-22,2026-07-24,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,M,COD,Tier 1,Other,ordered maroon but looks more red
+RET100193,DCO700193,2026-08-26,2026-09-04,LEGGING-2245,Anika Everyday Leggings,Womenswear - Bottoms,V-TIR-02,M,COD,Tier 3,Size/Fit,Waist bahut tight hai very disappointing
+RET100090,DCO700090,2026-08-15,2026-08-25,KIDS-3412,Rainbow Party Frock,Kidswear - Dress,V-JPR-14,8-9Y,COD,Tier 2,Size/Fit,Chest ke paas bahut tight hai
+RET100279,DCO700279,2026-07-08,2026-07-13,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,XL,COD,Tier 3,Other,expected date se kaafi late
+RET100135,DCO700135,2026-07-29,2026-08-10,TOP-1884,Riya Casual Top,Womenswear - Top,V-TIR-05,L,COD,Tier 1,Size/Fit,arms move karne par shoulder tight lagta
+RET100141,DCO700141,2026-07-31,2026-08-02,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,L,Prepaid,Tier 2,Other,too tight around chest
+RET100267,DCO700267,2026-08-13,2026-08-23,KURTI-1042,Aarohi Printed Kurti,Womenswear - Kurti,V-JPR-07,S,COD,Tier 2,Size/Fit,"sleeves narrow, movement nahi ho raha"
+RET100053,DCO700053,2026-07-07,2026-07-12,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,4-5Y,COD,Tier 1,Other,bacche ko size bilkul small pada
+RET100166,DCO700166,2026-07-10,2026-07-17,KIDS-3301,Dino Print Kids Tee,Kidswear - T-Shirt,V-TIR-10,8-9Y,COD,Tier 2,Other,print nikal raha hai
+RET100021,DCO700021,2026-08-14,2026-08-21,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,L,COD,Tier 3,Other,actual shade different from app
+RET100024,DCO700024,2026-08-11,2026-08-20,PALAZZO-2311,Saanvi Flared Palazzo,Womenswear - Bottoms,V-JPR-09,M,COD,Tier 2,Other,Waist bahut loose hai
+RET100233,DCO700233,2026-07-13,2026-07-15,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,XXL,COD,Tier 2,Size/Fit,fit expected se kaafi loose
+RET100241,DCO700241,2026-08-09,2026-08-15,KURTA-4302,Neel Solid Men's Kurta,Menswear - Kurta,V-JPR-05,M,Prepaid,Tier 3,Other,photo mein better tha size chart pls fix
+RET100199,DCO700199,2026-07-07,2026-07-12,TSHIRT-4207,Kabir Basic Crew Tee,Menswear - T-Shirt,V-TIR-06,L,COD,Tier 1,Other,shape retained nahi hua
+RET100185,DCO700185,2026-08-07,2026-08-09,SHIRT-4103,Arjun Cotton Casual Shirt,Menswear - Shirt,V-TIR-01,XXL,COD,Tier 2,Size/Fit,shoulder fitting chota h
